@@ -11,7 +11,13 @@
   "license": "ISC",
   "packageManager": "pnpm@10.6.4",
   "devDependencies": {
+    "@svgr/cli": "^8.1.0",
     "@types/node": "^22.15.29",
-    "svgson": "^5.3.1"
+    "@types/react": "^19.1.6",
+    "svgson": "^5.3.1",
+    "tsup": "^8.5.0"
+  },
+  "dependencies": {
+    "react": "^19.1.0"
   }
 }
