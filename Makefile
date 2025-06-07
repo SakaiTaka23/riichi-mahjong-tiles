@@ -14,3 +14,4 @@ build:
 	make attribute
 	make rotate
 	make icons
+	pnpm build
