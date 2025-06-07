@@ -1,12 +1,6 @@
 import type { SVGProps } from "react";
 const SvgRegularShaaR = (props: SVGProps<SVGSVGElement>) => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="1em"
-    height="1em"
-    viewBox="0 0 400 300"
-    {...props}
-  >
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" {...props}>
     <path
       d="M18.303 756.6c-9.586 1.253-21.044-11.13-7.344-14.66 43.69-8.445 191.763-31.914 208.715-38.97 14.882-4.476 48.78 19.646 69.772 30.824 13.035 7.626 7.097 16.274-2.938 20.175-8.125 2.447-55.98 6.847-81.613 3.759-4.89-.5-3.035-12.309-13.956-14.002-50.104-9.31-121.715 6.609-172.636 12.874"
       style={{

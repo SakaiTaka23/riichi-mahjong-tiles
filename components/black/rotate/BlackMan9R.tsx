@@ -1,12 +1,6 @@
 import type { SVGProps } from "react";
 const SvgBlackMan9R = (props: SVGProps<SVGSVGElement>) => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="1em"
-    height="1em"
-    viewBox="0 0 400 300"
-    {...props}
-  >
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" {...props}>
     <path
       d="M146.548 677.437c.545-9.273-36.812-17.959-33.246-4.272 17.95 62.02-5.542 79.39-66.766 100.842-4.171 1.146-5.269 9.321 1.845 7.116 64.538-20.004 103.843-24.603 98.167-103.686"
       style={{

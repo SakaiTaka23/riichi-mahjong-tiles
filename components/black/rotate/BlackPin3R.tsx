@@ -1,12 +1,6 @@
 import type { SVGProps } from "react";
 const SvgBlackPin3R = (props: SVGProps<SVGSVGElement>) => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="1em"
-    height="1em"
-    viewBox="0 0 400 300"
-    {...props}
-  >
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" {...props}>
     <g transform="matrix(0 1.02274 -1.02274 0 820.98 286.168)">
       <circle
         cx={-205.976}

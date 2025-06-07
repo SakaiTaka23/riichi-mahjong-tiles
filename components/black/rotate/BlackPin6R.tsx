@@ -1,12 +1,6 @@
 import type { SVGProps } from "react";
 const SvgBlackPin6R = (props: SVGProps<SVGSVGElement>) => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="1em"
-    height="1em"
-    viewBox="0 0 400 300"
-    {...props}
-  >
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" {...props}>
     <g transform="rotate(90 526.181 526.181)">
       <circle
         cx={100.455}

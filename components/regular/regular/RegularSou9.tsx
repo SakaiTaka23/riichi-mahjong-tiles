@@ -1,12 +1,6 @@
 import type { SVGProps } from "react";
 const SvgRegularSou9 = (props: SVGProps<SVGSVGElement>) => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="1em"
-    height="1em"
-    viewBox="0 0 300 400"
-    {...props}
-  >
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" {...props}>
     <g transform="matrix(1.5015 0 0 1.14938 -450.654 -595.069)">
       <circle
         cx={391.399}

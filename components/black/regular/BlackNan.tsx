@@ -1,12 +1,6 @@
 import type { SVGProps } from "react";
 const SvgBlackNan = (props: SVGProps<SVGSVGElement>) => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="1em"
-    height="1em"
-    viewBox="0 0 300 400"
-    {...props}
-  >
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" {...props}>
     <path
       d="M180.01 689.47c-6.608-.485-30.383 25.265-36.606 34.322-5.695 6.905 4.795 11.13 8.863 16.984 5.133 8.061 1.221 89.907-8.338 135.137l15.468-2.31c10.152-37.07 17.661-105.92 25.262-112.08 7.234-5.649 23.672-5.054 21.675-13.416-4.133-18.673-20.446-58.426-26.324-58.637"
       style={{

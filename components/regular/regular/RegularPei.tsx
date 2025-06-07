@@ -1,12 +1,6 @@
 import type { SVGProps } from "react";
 const SvgRegularPei = (props: SVGProps<SVGSVGElement>) => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="1em"
-    height="1em"
-    viewBox="0 0 300 400"
-    {...props}
-  >
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" {...props}>
     <path
       d="M29.908 770.382c-6.194 8.022 21.428 29.442 41.676 35.891 6.543 2.44 26.83-18.714 18.905-23.557-21.791-11.286-56.179-18.285-60.581-12.334"
       style={{
