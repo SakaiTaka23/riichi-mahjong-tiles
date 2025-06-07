@@ -1,3 +1,5 @@
+attribute:
+	sh scripts/fix-attribute.sh
 normalize:
 	sh scripts/normalize.sh
 rotate:
@@ -9,5 +11,6 @@ icons:
 	pnpm svgr -d components/regular/rotate Regular/rotate
 build:
 	make normalize
+	make attribute
 	make rotate
 	make icons

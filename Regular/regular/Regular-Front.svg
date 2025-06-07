@@ -107,8 +107,7 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern" />
-    <filter
-       style="color-interpolation-filters:sRGB;"
+    <filter colorInterpolationFilters="sRGB"
        id="filter4198">
       <feGaussianBlur
          stdDeviation="2.51 2.51"
@@ -127,8 +126,7 @@
          id="rect4224"
          style="opacity:1;fill:#ff3737;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </mask>
-    <filter
-       style="color-interpolation-filters:sRGB"
+    <filter colorInterpolationFilters="sRGB"
        id="filter4198-0">
       <feGaussianBlur
          stdDeviation="2.51 2.51"
@@ -148,8 +146,7 @@
          style="opacity:1;fill:#ff3737;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          transform="scale(-1,-1)" />
     </mask>
-    <filter
-       style="color-interpolation-filters:sRGB"
+    <filter colorInterpolationFilters="sRGB"
        id="filter4242">
       <feGaussianBlur
          stdDeviation="2.51 2.51"
@@ -168,8 +165,7 @@
          id="rect4224-8"
          style="opacity:1;fill:#ff3737;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </mask>
-    <filter
-       style="color-interpolation-filters:sRGB"
+    <filter colorInterpolationFilters="sRGB"
        id="filter4198-8"
        x="-0.024915433"
        y="-0.054278337"
@@ -193,8 +189,7 @@
          style="opacity:1;fill:#ff3737;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          transform="scale(-1,-1)" />
     </mask>
-    <filter
-       style="color-interpolation-filters:sRGB"
+    <filter colorInterpolationFilters="sRGB"
        id="filter4242-2">
       <feGaussianBlur
          stdDeviation="2.51 2.51"

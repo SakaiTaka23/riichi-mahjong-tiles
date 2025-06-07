@@ -60,9 +60,6 @@ const SvgRegularBackR = (props: SVGProps<SVGSVGElement>) => (
         height={1.109}
         x={-0.025}
         y={-0.054}
-        style={{
-          colorInterpolationFilters: "sRGB",
-        }}
       >
         <feGaussianBlur result="blur" stdDeviation="2.51 2.51" />
       </filter>
